@@ -25,7 +25,7 @@ It's a set of tools and APIs that enable developers to build voice-enabled user 
 
 ### Quick Demo of Whole Project
  
-The main goal of the applicaion is to track your income and expenses, so that you alway know on which items you are seding most koney and which things bring you the most money.
+The main goal of the applicaion is to track your income and expenses, so that you alway know on which items you are speding most money and which things bring you the most money.
 
 A very promising feature of the application is its voice recognition feature that enables us to track our transactions just by saying it. 
 Suppose I say: "ADD INCOME FOR ONE HUNDERED DOLLARS IN CATEGORY DEPOSITS FOR NEXT MONDAY",
