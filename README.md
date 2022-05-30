@@ -8,7 +8,7 @@ Expense Tracker Application is an application that helps to keep an accurate rec
 
 Expense Tracker Application stores your income and expense data very efficiently in a form of a Dynamic Chart that allows you to compare or find out what all income or expenses are the most at present. According to your need, you can select or deselect which transactions you have to show over or not.
 
-### What All it Involves?
+### What All It Involves?
 
 The Application is built upon various Javascript and React js concepts such as:
 
@@ -18,57 +18,27 @@ The Application is built upon various Javascript and React js concepts such as:
 - Scalable React folder structure.
 - Adding voice capability using Speechly API.
 
-### `npm test`
+### `Speechly`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Speechly is a developer tool that can be used to create real-time voice user interfaces to any application on any platform. Speechly is fast, smart and easy to deploy for developers and its models are easy to train and modify to specific use cases.
+It's a set of tools and APIs that enable developers to build voice-enabled user interfaces to their apps and services on any platform.
 
-### `npm run build`
+### Quick Demo of Whole Project
+ 
+The main goal of the applicaion is to track your income and expenses, so that you alway know on which items you are seding most koney and which things bring you the most money.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A very promising feature of the application is its voice recognition feature that enables us to track our transactions just by saying it. 
+Suppose I say: "ADD INCOME FOR ONE HUNDERED DOLLARS IN CATEGORY DEPOSITS FOR NEXT MONDAY",
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As soon as I say this, the tracker is automaticaly going to type the category, the amount and also choose the specific date that you have referenced to it.
+The income chart would get updates in Real-Time and our transaction is added to transaction history. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ofcourse we can also add these transactions manually too.
 
-### `npm run eject`
+Another thing noticeable is that I dont have to be really specific or detailed about the date I am talking about, I just say "NEXT THRUSDAY" and the tracker automatically sets the date for me.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### `Local Storage`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+LocalStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date. In basic terms, local storage enables developers to store and retrieve data in the browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The application uses the concept of Local Storage. More specifically even if we close the tab or the browser window, next time when I visit the application, all the data is going to be preserved there as it is.
