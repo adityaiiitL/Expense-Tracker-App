@@ -1,18 +1,22 @@
-# Getting Started with Create React App
+# Getting Started with Expense Tracker App
 
 This project has been deployed over this URL: (https://my-expense-tracker-speechly.netlify.app/)
 
-## Available Scripts
+## About this
 
-In the project directory, you can run:
+Expense Tracker Application is an application that helps to keep an accurate record of your money inflow and outflow. Many people in India live on a fixed income, and they find that towards the end of the month they don't have sufficient money to meet their needs.
 
-### `npm start`
+Expense Tracker Application stores your income and expense data very efficiently in a form of a Dynamic Chart that allows you to compare or find out what all income or expenses are the most at present. According to your need, you can select or deselect which transactions you have to show over or not.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### What All it Involves?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Application is built upon various Javascript and React js concepts such as:
+
+- State Management using React Context APIs.
+- Saving Data into Local Storage.
+- Creatung a User Internface using Material UI.
+- Scalable React folder structure.
+- Adding voice capability using Speechly API.
 
 ### `npm test`
 
