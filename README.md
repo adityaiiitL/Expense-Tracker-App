@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been deployed over this URL: (https://my-expense-tracker-speechly.netlify.app/)
 
 ## Available Scripts
 
