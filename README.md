@@ -8,7 +8,7 @@ Expense Tracker Application is an application that helps to keep an accurate rec
 
 Expense Tracker Application stores your income and expense data very efficiently in a form of a Dynamic Chart that allows you to compare or find out what all income or expenses are the most at present. According to your need, you can select or deselect which transactions you have to show over or not.
 
-### What All It Involves?
+### `What All It Involves?`
 
 The Application is built upon various Javascript and React js concepts such as:
 
@@ -23,7 +23,7 @@ The Application is built upon various Javascript and React js concepts such as:
 Speechly is a developer tool that can be used to create real-time voice user interfaces to any application on any platform. Speechly is fast, smart and easy to deploy for developers and its models are easy to train and modify to specific use cases.
 It's a set of tools and APIs that enable developers to build voice-enabled user interfaces to their apps and services on any platform.
 
-### Quick Demo of Whole Project
+### `Quick Demo of Whole Project`
  
 The main goal of the applicaion is to track your income and expenses, so that you alway know on which items you are speding most money and which things bring you the most money.
 
@@ -43,6 +43,6 @@ LocalStorage is a web storage object that allows JavaScript sites and apps to ke
 
 The application uses the concept of Local Storage. More specifically even if we close the tab or the browser window, next time when I visit the application, all the data is going to be preserved there as it is.
 
-### Responsive
+### `Responsive`
 
 One more thing, that is worth mentioning is that this application is completely responsive for any possible size device.
