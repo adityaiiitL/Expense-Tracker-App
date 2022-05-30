@@ -42,3 +42,7 @@ Another thing noticeable is that I dont have to be really specific or detailed a
 LocalStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date. In basic terms, local storage enables developers to store and retrieve data in the browser.
 
 The application uses the concept of Local Storage. More specifically even if we close the tab or the browser window, next time when I visit the application, all the data is going to be preserved there as it is.
+
+### Responsive
+
+One more thing, that is worth mentioning is that this application is completely responsive for any possible size device.
